@@ -1,3 +1,0 @@
-Calculating factorial(-10)...
-Terminal case, returning 1.
-The final result is: 1.
